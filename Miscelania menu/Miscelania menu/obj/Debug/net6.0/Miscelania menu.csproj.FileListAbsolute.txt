@@ -1,0 +1,30 @@
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.AssemblyInfo.cs
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.exe
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.deps.json
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.runtimeconfig.json
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.dll
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.pdb
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.dll
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\refint\Miscelania menu.dll
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.pdb
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.genruntimeconfig.cache
+C:\Users\Sena\Desktop\Visual Studio LC\Miscelania menu\Miscelania menu\obj\Debug\net6.0\ref\Miscelania menu.dll
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.csproj.AssemblyReference.cache
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.AssemblyInfoInputs.cache
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.AssemblyInfo.cs
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.dll
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\refint\Miscelania menu.dll
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.pdb
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.exe
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.deps.json
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.runtimeconfig.json
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.dll
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\bin\Debug\net6.0\Miscelania menu.pdb
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\Miscelania menu.genruntimeconfig.cache
+C:\Users\Sena\Source\Repos\Miscelanea-menu\Miscelanea-menu-mainciclos-actualizados\Miscelania menu\Miscelania menu\obj\Debug\net6.0\ref\Miscelania menu.dll
